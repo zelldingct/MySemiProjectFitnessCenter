@@ -21,7 +21,7 @@
           <a class="nav-link" aria-current="page" href="moveTrainnerList.do">트레이너 소개</a>
         </li>
         <li class="nav-item">
-        <a class="nav-link" href="moveMembership.do">Membership가입하기</a>
+        <a class="nav-link" href="moveMembership.do">회원권 등록</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="moveReservationPT.do">PT예약하기</a>
@@ -30,7 +30,7 @@
           <a class="nav-link" href="qnalist.do">Q&A</a>
         </li>
           <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="float:right;">
             My page
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">

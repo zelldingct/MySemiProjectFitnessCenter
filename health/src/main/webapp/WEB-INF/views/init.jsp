@@ -32,13 +32,13 @@ margin-left:25%;
       <img src="resources/images/init/IntroTrainer.jpg" onclick="location.href='moveTrainnerList.do'" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="resources/images/init/Membership.jpg" onclick="location.href='moveMembership.do'" class="d-block w-100" alt="...">
+      <img src="resources/images/init/MemRegi.jpg" onclick="location.href='moveMembership.do'" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
       <img src="resources/images/init/PTreserve.jpg" onclick="location.href='moveReservationPT.do'" class="d-block w-100" alt="...">
     </div>
         <div class="carousel-item">
-      <img src="resources/images/init/Q&A.jpg" onclick="location.href='qnalist.do'" class="d-block w-100" alt="...">
+      <img src="resources/images/init/Q&A2.jpg" onclick="location.href='qnalist.do'" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
