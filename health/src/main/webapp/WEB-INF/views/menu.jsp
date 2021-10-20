@@ -28,8 +28,13 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="qnalist.do">Q&A</a>
-        </li>
-          <li class="nav-item dropdown">
+        </li>       
+	  </ul>
+    </div>
+  </div>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+                 <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="float:right;">
             My page
           </a>
@@ -38,11 +43,9 @@
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">log out</a></li>
           </ul>
-        </li>
-        
-	  </ul>
+        </li> 
+      </ul>  
     </div>
-  </div>
 </nav>
 </body>
 </html>
